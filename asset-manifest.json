@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/themeSwicther-by-react/static/css/main.e6c13ad2.css",
+    "main.js": "/themeSwicther-by-react/static/js/main.de69b1d1.js",
+    "index.html": "/themeSwicther-by-react/index.html",
+    "main.e6c13ad2.css.map": "/themeSwicther-by-react/static/css/main.e6c13ad2.css.map",
+    "main.de69b1d1.js.map": "/themeSwicther-by-react/static/js/main.de69b1d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.de69b1d1.js"
+  ]
+}
